@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aula.iml" filepath="$PROJECT_DIR$/.idea/Aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java aula1/tarde/java aula1 tarde exc1/java aula1 tarde exc1.iml" filepath="$PROJECT_DIR$/java aula1/tarde/java aula1 tarde exc1/java aula1 tarde exc1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java aula1/tarde/java aula1 tarde exc2/java aula1 tarde exc2.iml" filepath="$PROJECT_DIR$/java aula1/tarde/java aula1 tarde exc2/java aula1 tarde exc2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java aula1/tarde/java aula1 tarde exc3/java aula1 tarde exc3.iml" filepath="$PROJECT_DIR$/java aula1/tarde/java aula1 tarde exc3/java aula1 tarde exc3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java aula1/tarde/java aula1 tarde exc4/java aula1 tarde exc4.iml" filepath="$PROJECT_DIR$/java aula1/tarde/java aula1 tarde exc4/java aula1 tarde exc4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java aula2/java aula2.iml" filepath="$PROJECT_DIR$/java aula2/java aula2.iml" />
+    </modules>
+  </component>
+</project>
