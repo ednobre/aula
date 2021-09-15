@@ -1,0 +1,4 @@
+0;colesterol alto;remedio;exames
+1;colesterol alto;remedio;exames
+2;colesterol alto;remedio;exames
+3;suspeita covid;vacina;teste
