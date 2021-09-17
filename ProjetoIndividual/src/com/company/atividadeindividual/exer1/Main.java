@@ -17,6 +17,7 @@ public class Main {
 
         Agenda agenda = new Agenda();
 
+        // cadastrar na aguenda
         agenda.amarzenarPessoas(pessoa1);
         agenda.amarzenarPessoas(pessoa2);
         agenda.amarzenarPessoas(pessoa3);
@@ -28,16 +29,22 @@ public class Main {
         agenda.amarzenarPessoas(pessoa9);
         agenda.amarzenarPessoas(pessoa10);
 
+        System.out.println("--------Exibir uma passoa por nome--------------");
+        String nomeBusca = "dimas";
+        agenda.exibirPessoaNome(nomeBusca);
+
         System.out.println("--------Exibir toda Agenda--------------");
         agenda.exibirAgenda();
 
         System.out.println("--------Remove uma passoa--------------");
         String nomeRemover = "marcia";
         agenda.removerPessoas(nomeRemover);
+        nomeRemover = "livia";
+        agenda.removerPessoas(nomeRemover);
         agenda.exibirAgenda();
 
         System.out.println("--------Exibir uma passoa--------------");
-        agenda.exibirPessoa(5);
+        agenda.exibirPessoaID(5);
 
     }
 }

@@ -27,6 +27,6 @@ public class Main {
         Retangulo.quantidadePiso(areaRet,lajota*lajota);
 
         System.out.println("--------Quantidate de lajota no rodape-------");
-        Retangulo.quatidadeRodape(lajota,ladoB);
+        Retangulo.quatidadeRodape(lajota,perimetro);
     }
 }

@@ -12,6 +12,7 @@ public class Main {
         nome = teclado.next();
 
         ManipulaString.inverteNome(nome);
+        //nome=ManipulaString.retirarEspaco(nome);
         ManipulaString.palindromo(nome);
     }
 

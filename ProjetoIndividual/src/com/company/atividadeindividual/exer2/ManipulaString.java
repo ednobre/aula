@@ -16,4 +16,7 @@ public class ManipulaString {
             System.out.println(nome+ " é um palíndromo.");
     }
 
+    //public static String retirarEspaco(String nome) {
+      //  return nome.replace(nome);
+   // }
 }

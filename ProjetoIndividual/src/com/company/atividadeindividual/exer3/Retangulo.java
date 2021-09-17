@@ -14,8 +14,7 @@ public class Retangulo {
         System.out.println(area/lajota);
     }
 
-    public static void quatidadeRodape(double lajota, double ladoB) {
-        System.out.println(ladoB/lajota);
-       // System.out.println((perimetro/lajota-4*lajota));
+    public static void quatidadeRodape(double lajota, double perimetro) {
+      System.out.println((perimetro/lajota-4*lajota));
     }
 }

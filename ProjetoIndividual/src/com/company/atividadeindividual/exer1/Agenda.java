@@ -26,13 +26,13 @@ public class Agenda {
         }
 //        for (Pessoa lp: listaP) {
 //            if (lp.getName().equals(nome)){
-//                listaP.remove(nome);
+//                listaP.remove(lp);
 //                System.out.println("xxxxxxxxxxxxxxxxxxxxx");
 //            }
 //        }
     }
 
-    public int exibirPessoa(int id) {
+    public int exibirPessoaID(int id) {
         for (Pessoa lp: listaP) {
             if (lp.getId() == id) {
                 System.out.println(lp);
@@ -41,4 +41,11 @@ public class Agenda {
         return 0;
     }
 
+    public void exibirPessoaNome(String nome) {
+        for (Pessoa lp: listaP) {
+            if (lp.getName().equals(nome)) {
+                System.out.println(lp);
+            }
+        }
+    }
 }
